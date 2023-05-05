@@ -9,3 +9,6 @@ Run the automated tests by following the steps below.
 ## How does the testing work?
 The testing suite compiles, runs and executes commands in the shell simulator. Expected output is checked
 based on specific input to the shell simulator. See the source code files for details.
+### Note:
+- See error codes in the ``` validate_output ``` method in the ``` sim_comms.py ``` file.
+- Your file system must follow Linux FS conventions.
